@@ -11,6 +11,7 @@
     (discord.override {
       withVencord = true;
     })
+    xournalpp
     vesktop
     obsidian
     calibre
