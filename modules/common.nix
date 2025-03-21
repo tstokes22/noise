@@ -40,6 +40,7 @@
       curl
       git
       usbutils
+      blueman
     ];
     variables.EDITOR = "vim";
   };
