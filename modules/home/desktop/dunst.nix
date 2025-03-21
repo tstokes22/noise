@@ -3,6 +3,7 @@
     enable = true;
     settings = {
       global = {
+        monitor = 1;
         width = "250";
         height = "(75,150)";
         origin = "bottom-right";
