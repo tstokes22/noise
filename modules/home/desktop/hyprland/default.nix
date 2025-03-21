@@ -12,7 +12,7 @@
       "$guiFM" = "thunar";
       "$tuiFM" = "yazi";
       "$menu" = "fuzzel";
-      "$browser" = "librewolf";
+      "$browser" = "brave";
 
       exec-once = [
         "waybar"
