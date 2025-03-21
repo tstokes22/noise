@@ -20,6 +20,7 @@
     slurp
     wl-clipboard
     pavucontrol
+    pulseaudio
     pamixer
     playerctl
     brightnessctl
