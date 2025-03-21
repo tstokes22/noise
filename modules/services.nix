@@ -9,7 +9,9 @@
       jack.enable = true;
       wireplumber.enable = true;
     };
-    mullvad-vpn.enable = true;
+    # Bluetooth
+    blueman.enable = true;
+    
     gvfs.enable = true;
     getty = {
       autologinUser = "leroy";
