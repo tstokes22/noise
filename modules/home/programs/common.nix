@@ -9,11 +9,6 @@
     xfce.tumbler
     ffmpegthumbnailer
 
-    # safety
-    mullvad-vpn
-    bitwarden
-    keepassxc
-
     # dev
     python3
     lua
