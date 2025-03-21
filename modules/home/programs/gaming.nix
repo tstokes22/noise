@@ -1,6 +1,7 @@
 { pkgs, ... }:
 {
   home.packages = with pkgs; [
+    moonlight-qt
     prismlauncher
     (pkgs.callPackage ./extra/olympus/package.nix { })
     protonplus
