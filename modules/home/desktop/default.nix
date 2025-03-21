@@ -16,8 +16,6 @@
 
   home.packages = with pkgs; [
     jetbrains-toolbox
-    obsidian
-    xournalpp
     libnotify
     grim
     slurp
