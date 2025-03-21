@@ -2,10 +2,10 @@
   services.gammastep = {
     enable = true;
     temperature = {
-      day = 3400;
+      day = 5400;
       night = 3400;
     };
-    latitude = 50.1109;
-    longitude = 8.6821;
+    latitude = 30.1109;
+    longitude = -80.6821;
   };
 }
