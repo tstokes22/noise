@@ -19,7 +19,9 @@
         "mpdscribble"
       ];
 
-      monitor = [ ",preferred,auto,auto" ];
+      monitor = [       
+      "HDMI-A-1, 1920x1080@144, 0x0, 1" 
+      "DP-1, 2560x1440@144, 1920x0, 1"];
 
       input = {
         kb_layout = "eu";

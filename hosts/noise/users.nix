@@ -1,10 +1,10 @@
 { pkgs, ... }:
 {
   users = {
-    users.leroy = {
+    users.taylor = {
       isNormalUser = true;
-      description = "leroy";
-      home = "/home/leroy";
+      description = "taylor";
+      home = "/home/taylor";
       extraGroups = [
         "networkmanager"
         "wheel"

@@ -24,7 +24,7 @@
               home-manager = {
                 useGlobalPkgs = true;
                 useUserPackages = true;
-                users.leroy = import ./modules/home;
+                users.taylor = import ./modules/home;
                 extraSpecialArgs = { inherit inputs; };
               };
             }

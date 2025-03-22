@@ -14,6 +14,8 @@
     lua
     lazygit
     docker
+    go
+    gcc
 
     # cli
     distrobox
