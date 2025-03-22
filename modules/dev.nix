@@ -2,7 +2,7 @@
 {
   environment.variables = {
     GOPATH = "/home/taylor/.local/share/go";
-    GOBIN = "/home/tay;pr/.local/share/go/bin";
+    GOBIN = "/home/taylor/.local/share/go/bin";
   };
 
   virtualisation.docker = {
